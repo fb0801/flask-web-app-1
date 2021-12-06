@@ -6,7 +6,10 @@ Flask web application
 <h3>Resources used: </h3>
 <ul>
   <li>https://www.youtube.com/watch?v=dam0GPOAvVI</li>
+ <li>https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/</li>
 </ul>
+
+<h3>Issues: <\h3> 
 
 <h3>Changes made: </h3>
 
