@@ -16,8 +16,8 @@ def logout():
 def sign_up():
     if request.method=="POST":
         email= request.form.get('email')
-        firstName = request.get('firstName')
-        password1= request.get('password1')
-        password2 = request.get('password2')
+        firstName = request.form.get('firstName')
+        password1= request.form.get('password1')
+        password2 = request.form.get('password2')
 
     return render_template('sign_up.html')
