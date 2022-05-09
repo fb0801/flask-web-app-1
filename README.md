@@ -9,6 +9,8 @@ Flask web application
  <li>https://www.activestate.com/resources/quick-reads/how-to-list-installed-python-packages/</li>
  <li>https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp</li>
  <li>https://www.w3schools.com/bootstrap4/bootstrap_alerts.asp</li>
+ <li>https://realpython.com/run-python-scripts/ </li>
+ <li> https://www.socketxp.com/iot/how-to-access-python-flask-app-from-internet/ </li>
 </ul>
 
 <h3>Issues: </h3> 
