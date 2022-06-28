@@ -24,7 +24,7 @@ def login():
                 flash("incorrect, try again!", category="error")
         else:
             flash("email does not exist!", category="error")
-    return render_template("login.html", booLean= True)
+    return render_template("login.html", user=current_user)
    # data = request.form
   #  return render_template('login.html')
 
@@ -63,4 +63,4 @@ def sign_up():
             flash('Account made!', category='success')
             return redirect(url_for('views.home'))
 
-    return render_template('sign_up.html')
+    return render_template('sign_up.html', user = current_user)
